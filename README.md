@@ -11,13 +11,13 @@ Zusammenfassung der ausgeschlossenen Inhalte aus verschiedenen Quellen:
 
 Allgemeine Ausschlusskriterien:
 
-Dienstleistungen und Marktplätze: Alle Quellen haben Dienstleistungen (z. B. gefälschte Dokumente, Hacking-Services) und Marktplätze (inkl. illegale Waren) ausgeschlossen.
-Urheberrechtlich geschützte Inhalte: Seiten wie Imperial Library, Comic Books, Z-Library, und The Pirate Bay wurden ausgeschlossen.
-Ransomware und Leak-Seiten: Unautorisierte Leaks, Ransomware-Webseiten und andere fragwürdige Inhalte wurden ausgeschlossen.
-Propaganda- und illegale Foren: Seiten wie Dabiq (Propaganda-Magazin), Cruel Onion Forum, und FakeID-Generator wurden ausgeschlossen.
-Duplicate Links: Mehrfach aufgelistete Links((bei tatsächlicher Übereinstimmung) mehrere unterschiedliche Links zu einer Seite wurden aufgenommen!) wurden konsolidiert, um Redundanzen zu vermeiden.
-Ohne Beschreibung: Seiten ohne Titel oder Beschreibung wurden nicht aufgenommen.
-Möglicherweise illegale oder anstößige Inhalte: Seiten wie YATL CP, HeBe + TeeN ChaT, Satanic Ceremony, und Nudist Paradise vorsichtshalber ausgeschlossen.
+1. Dienstleistungen und Marktplätze: Alle Quellen haben Dienstleistungen (z. B. gefälschte Dokumente, Hacking-Services) und Marktplätze (inkl. illegale Waren) ausgeschlossen.
+2. Urheberrechtlich geschützte Inhalte: Seiten wie Imperial Library, Comic Books, Z-Library, und The Pirate Bay wurden ausgeschlossen.
+3. Ransomware und Leak-Seiten (abgesehen von investigativ Journalismus): Unautorisierte Leaks, Ransomware-Webseiten und andere fragwürdige Inhalte wurden ausgeschlossen.
+4. Propaganda- und illegale Foren: Seiten wie Dabiq (Propaganda-Magazin), Cruel Onion Forum, und FakeID-Generator wurden ausgeschlossen.
+5. Doppelte Links: Mehrfach aufgelistete Links((bei tatsächlicher Übereinstimmung) mehrere unterschiedliche Links zu einer Seite wurden aufgenommen!) wurden konsolidiert, um Redundanzen zu vermeiden.
+6. Ohne Beschreibung: Seiten ohne Titel oder Beschreibung wurden nicht aufgenommen.
+7. Möglicherweise illegale oder anstößige Inhalte: Seiten wie YATL CP, HeBe + TeeN ChaT, Satanic Ceremony, und Nudist Paradise vorsichtshalber ausgeschlossen.
 
 
 English Version:(generated)///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
