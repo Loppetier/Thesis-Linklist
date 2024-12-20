@@ -20,6 +20,22 @@ Allgemeine Ausschlusskriterien:
 6. Ohne Beschreibung: Seiten ohne Titel oder Beschreibung wurden nicht aufgenommen.
 7. Möglicherweise illegale oder anstößige Inhalte: Seiten wie YATL CP, HeBe + TeeN ChaT, Satanic Ceremony, und Nudist Paradise vorsichtshalber ausgeschlossen.
 
+SQL CODE FOR 30 most popular Websites by mentioning:
+
+SELECT 
+    l.url,
+    COUNT(lq.link_id) AS anzahl,
+    GROUP_CONCAT(DISTINCT l.title) AS titles,
+    GROUP_CONCAT(DISTINCT l.category) AS categories
+FROM Link_Quellen lq
+JOIN Links l ON lq.link_id = l.link_id
+GROUP BY l.url
+ORDER BY anzahl DESC
+LIMIT 30;
+
+
+
+
 
 English Version:(generated)///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 # Thesis-Linklist
