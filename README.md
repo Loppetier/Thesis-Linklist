@@ -3,6 +3,7 @@ Aggregierte und gefilterter Datenbank aus Onion-Links. Quellen sind öffentlich 
 Die Listen können durch das Suchen nach Repos mit dem Namen "onion links" (und der Filterung nach "most stars") gefunden werden.
 
 Aktuell 1261 Links, von insgesamt 22 Quellen.
+Die Zahlen im Infotext der Quellen stehen für range der links (linkids), die von den Quellen in den Listen benannt wurden. (So kann überprüft werden von welcher Quelle der Link stammt)
 
 Die Verteilung der Links pro Quelle schwankt sehr stark, so enthalten manche Linklisten zwischen 1-5 Links wobei andere über 300 aufweisen. 
 
